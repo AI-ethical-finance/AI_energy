@@ -5,42 +5,6 @@
 
     <meta charset="utf-8">
 
-	
-    <title>LOCALISING DATA CENTRES</title>
-  <!-- Load d3.js -->
-<script src="https://d3js.org/d3.v6.js"></script>
-<script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
-
-	  <!-- Create an element where the map will take place -->
-<svg id="my_dataviz" width="800" height="600"></svg>
-<script>
-// The svg
-const svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height");
-
-// Map and projection. Try:  d3.geoAiry() / d3.geoAitoff() / d3.geoArmadillo() / d3.geoAugust() / d3.geoAzimuthalEqualArea() / d3.geoAzimuthalEquidistant() and more
-const projection = d3.geoAitoff()
-    .scale(width / 1.3 / Math.PI)
-    .translate([width / 2, height / 2])
-
-// Load external data and boot
-d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson").then( function(data) {
-
-    // Draw the map
-    svg.append("g")
-        .selectAll("path")
-        .data(data.features)
-        .join("path")
-            .attr("fill", "#69b3a2")
-            .attr("d", d3.geoPath()
-                .projection(projection)
-            )
-            .style("stroke", "#fff")
-})
-
-</script>
-
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -105,23 +69,40 @@ d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/w
 
     <section id="presentation" class="" style="padding-bottom: 50px; padding-top: 50px">
       <div class="container">
+    <title>DATA CENTRES</title>
+  <!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
 
-        <div class="row" style="text-align: justify; margin-top: 40px; margin-bottom: 40px">
-           <div class="col-lg-4">
-            <p><a href="https://www.data-to-viz.com">From Data to Viz</a> is a classification of chart types based on input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent the dataset.</p>
+	  <!-- Create an element where the map will take place -->
+<svg id="my_dataviz" width="800" height="600"></svg>
+<script>
+// The svg
+const svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
 
-            <p>The project is built on two underlying philosophies. <i>First</i>, that most data analysis can be summarized in about twenty different dataset formats. <i>Second</i>, that both data and context determine the appropriate chart.</p>
-          </div>
-          <div class="col-lg-4">
-            <p>Thus, our suggested method consists in identifying and trying all feasible chart types to find out which suits your data and idea best.</p>
-            <p>Once this set of graphics is identified, <a href="https:///www.data-to-viz.com">data-to-viz.com</a> aims to guide you toward the best decision. It also provides a list of common caveats to avoid and always provides a reproducible code snippet in the <a href="https://www.r-graph-gallery.com">R programming language</a>.</p>
+// Map and projection. Try:  d3.geoAiry() / d3.geoAitoff() / d3.geoArmadillo() / d3.geoAugust() / d3.geoAzimuthalEqualArea() / d3.geoAzimuthalEquidistant() and more
+const projection = d3.geoAitoff()
+    .scale(width / 1.3 / Math.PI)
+    .translate([width / 2, height / 2])
 
-          </div>
-          <div class="col-lg-4">
-            <p>Dataviz is a world with endless possibilities and this project does not claim to be exhaustive. However, it should provide you with a good starting point.</p>
-            <center><img src="img/logo/tree-s.png" style="width:55%; height:55%"></center>
-          </div>
-       </div>
+// Load external data and boot
+d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson").then( function(data) {
+
+    // Draw the map
+    svg.append("g")
+        .selectAll("path")
+        .data(data.features)
+        .join("path")
+            .attr("fill", "#69b3a2")
+            .attr("d", d3.geoPath()
+                .projection(projection)
+            )
+            .style("stroke", "#fff")
+})
+
+</script>
 
       </div>
     </section>
