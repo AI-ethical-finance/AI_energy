@@ -2,8 +2,6 @@
 <br>
 <hr>
 
-[data-to-viz.com](https://www.data-to-viz.com)
-
 <br>
 
 AI on a diet: how to apply frugal AI standards?
