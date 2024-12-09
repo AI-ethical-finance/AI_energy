@@ -119,8 +119,8 @@
     `;
 
     return <Globe
-      globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-      backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+      globeImageUrl={'./img/Whole_wd_12000.jpg'}
+      backgroundColor={'rgba(0,0,0,0)'}
 
       pointsData={volcanoes}
       pointLat="lat"
@@ -138,7 +138,7 @@
       labelDotOrientation={() => 'bottom'}
       labelColor={d => catColor(d.type)}
       labelText="name"
-      labelSize={0.15}
+      labelSize={0.25}
       labelResolution={1}
       labelLabel={getTooltip}
     />;
