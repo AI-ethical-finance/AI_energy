@@ -3,11 +3,11 @@
   <head>
 
     <meta charset="utf-8">
-    <title>From data to Viz | Find the graphic you need</title>
+    <title>Multimodal Finance Initiative</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="A classification of all possible chart types classified following the input data format.">
-    <meta name="keywords" content="Data,Dataviz,Datavisualization,Plot,Chart,Graph,R,Python,D3,Learning,Caveat,Pitfall,Mistake,Classification">
-    <meta name="author" content="Yan Holtz and Conor Healy">
+    <meta name="description" content="A classification of all possible multimodal AI applications in finance">
+    <meta name="keywords" content="genAI, LLMs, multimodal, AI, ML, ESG, energy">
+    <meta name="author" content="Nataliya Tkachenko">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,19 +44,19 @@
          <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav text-uppercase ml-auto">
          <li class="nav-item">
-        <a class="nav-link" href="https://ai-ethical-finance.github.io/AI_energy/about.html">Assets</a>
+        <a class="nav-link" href="https://ai-ethical-finance.github.io/AI_energy/about.html">Emissions</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#explore">Models</a>
+        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#explore">GPTs</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#story">CFE</a>
+        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#story">FinAI</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#portfolio">Attribution</a>
+        <a class="nav-link js-scroll-trigger" href="https://ai-ethical-finance.github.io/AI_energy/#portfolio">Scenarios</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://ai-ethical-finance.github.io/AI_energy/caveats.html">Footprints</a>
+        <a class="nav-link" href="https://ai-ethical-finance.github.io/AI_energy/caveats.html">Frugal AI</a>
       </li>
    
       <li class="nav-item">
@@ -78,9 +78,9 @@
         <div class="intro-text">
           <img src="img/logo/logo.png" style="width:45%;height:45%;">
           <br><br>
-          <div class="intro-lead-in">Track the environmental footprint of AI models, uncover their hidden energy costs, and help them slim down for a greener, more sustainable future. Our mission? To make AI smarter and kinder to the planet, one watt at a time. Let’s build a future where innovation thrives without breaking the Earth’s bank. 🌍💡</div>
+          <div class="intro-lead-in">Track the environmental footprint of AI models, uncover their hidden energy costs, and help them slim down for a greener, more sustainable future. Our mission? To make AI smarter and kinder to the planet, one watt at a time. Let’s build a future where innovation thrives without breaking the Earth’s bank.</div>
           <div style="text-align:center">
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#explore">Explore</a>
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#explore">Find out more...</a>
           </div>
         </div>
       </div>
@@ -110,17 +110,17 @@
         <div class="row">
           <div class="col-lg-2 text-center"></div>
           <div class="col-lg-8 text-center">
-            <p>What kind of data do you have? Pick the main type using the buttons below. Then let the decision tree guide you toward your AI possibilities. Alternatively, check the <a data-toggle="modal" href="#poster_full">complete decision tree</a>.</p>
+            <p>What kind of data do you have? Pick the main type using the buttons below. Then let the decision tree guide you toward your AI possibilities. </p>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-12 text-center">
             <div id="tree-button-container">
               <button class="btn btn-secondary active" onclick="showTree('num')" data-tree-section="num">Numeric</button>
-              <button class="btn btn-secondary" onclick="showTree('cat')" data-tree-section="cat">Categoric</button>
-              <button class="btn btn-secondary" onclick="showTree('catnum')" data-tree-section="catnum">Num & Cat</button>
-              <button class="btn btn-secondary" onclick="showTree('geo')" data-tree-section="geo">Maps</button>
-              <button class="btn btn-secondary" onclick="showTree('relationnal')" data-tree-section="relationnal">Network</button>
+              <button class="btn btn-secondary" onclick="showTree('cat')" data-tree-section="cat">Categorical</button>
+              <button class="btn btn-secondary" onclick="showTree('catnum')" data-tree-section="catnum">Mixed</button>
+              <button class="btn btn-secondary" onclick="showTree('geo')" data-tree-section="geo">Cartographic</button>
+              <button class="btn btn-secondary" onclick="showTree('relationnal')" data-tree-section="relationnal">Relational</button>
               <button class="btn btn-secondary" onclick="showTree('time')" data-tree-section="time">Time series</button>
             </div>
           </div>
