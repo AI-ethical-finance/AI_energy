@@ -97,23 +97,23 @@
   const { useState, useEffect } = React;
 
   const World = () => {
-    const [volcanoes, setVolcanoes] = useState([]);
+    const [centers, setCenters] = useState([]);
 
     useEffect(() => {
       // load data
-      fetch('./data/world_volcanoes.json').then(res => res.json())
-        .then(setVolcanoes);
+      fetch('./data/data_centers.json').then(res => res.json())
+        .then(setCenters);
     }, []);
 
     const catColor = d3.scaleOrdinal(d3.schemeCategory10.map(col => polished.transparentize(0.2, col)));
 
-    const getAlt = d => d.elevation * 5e-5;
+    const getAlt = d => d.cfe * 5e-5;
 
     const getTooltip = d => `
       <div style="text-align: center">
         <div><b>${d.name}</b>, ${d.country}</div>
         <div>(${d.type})</div>
-        <div>Elevation: <em>${d.elevation}</em>m</div>
+        <div>CFE_%: <em>${d.cfe}</em>m</div>
       </div>
     `;
 
@@ -121,7 +121,7 @@
       globeImageUrl={'./img/Whole_wd_12000.jpg'}
       backgroundColor={'rgba(0,0,0,0)'}
 
-      pointsData={volcanoes}
+      pointsData={centers}
       pointLat="lat"
       pointLng="lon"
       pointAltitude={getAlt}
@@ -129,7 +129,7 @@
       pointColor={d => catColor(d.type)}
       pointLabel={getTooltip}
 
-      labelsData={volcanoes}
+      labelsData={centers}
       labelLat="lat"
       labelLng="lon"
       labelAltitude={d => getAlt(d) + 1e-6}
