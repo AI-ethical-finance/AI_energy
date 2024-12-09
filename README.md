@@ -1,4 +1,4 @@
-<img align="left" src="img/logo/typo.png" width="300">
+<img align="center" src="img/logo-color.png" width="300">
 <br>
 <hr>
 
