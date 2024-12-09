@@ -1,5 +1,5 @@
 <img align="center" src="img/logo-color.png" width="400">
-<img src="mg/logo-color.png" alt="rag" class="center" style="width:400px;height:400px;">
+<img src="img/logo-color.png" alt="rag" class="center" style="width:400px;height:400px;">
 
 AI on a diet: how to apply frugal AI standards?
 -----
