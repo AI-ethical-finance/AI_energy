@@ -1,7 +1,11 @@
-<img align="center" src="img/logo-color.png" width="400">
+# AI on a diet: how to apply frugal AI standards?
+<p align="center">
 <img src="img/logo-color.png" alt="rag" class="center" style="width:400px;height:400px;">
+</p>
 
-AI on a diet: how to apply frugal AI standards?
+
+
+
 -----
 From [Data to Viz.com](https://www.data-to-viz.com) is a website aiming to help in your chart decision. It classifies most of the chart types based on their input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent your dataset.
 
