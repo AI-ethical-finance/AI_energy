@@ -1,5 +1,4 @@
-<img align="centre" src="img/logo-color.png" width="300">
-
+<img align="center" src="img/logo-color.png" width="400">
 
 AI on a diet: how to apply frugal AI standards?
 -----
