@@ -109,7 +109,7 @@
 
     const catColor = d3.scaleOrdinal(d3.schemeCategory10.map(col => polished.transparentize(0.2, col)));
 
-    const getAlt = d => d.cfe * 5e-5;
+    const getAlt = d => d.cfe * 5e-3;
 
     const getTooltip = d => `
       <div style="text-align: center">
@@ -134,12 +134,12 @@
       labelLat="lat"
       labelLng="lon"
       labelAltitude={d => getAlt(d) + 1e-6}
-      labelDotRadius={0.12}
+      labelDotRadius={0.25}
       labelDotOrientation={() => 'bottom'}
       labelColor={d => catColor(d.type)}
       labelText="name"
-      labelSize={0.15}
-      labelResolution={1}
+      labelSize={0.25}
+      labelResolution={2}
       labelLabel={getTooltip}
     />;
   };
