@@ -92,7 +92,9 @@
 
 <!-- --------------------------- Presentation  ------------------------------------------------------------------- -->
   <section id="presentation" class="" style="padding-bottom: 0px; padding-top: 0px">
-   <div id="globeViz"></div>
+	  
+<div id="globeViz"></div>
+
 <script type="text/jsx">
   const { useState, useEffect } = React;
 
@@ -120,12 +122,11 @@
     return <Globe
       globeImageUrl={'./img/Whole_wd_12000.jpg'}
       backgroundColor={'rgba(0,0,0,0)'}
-
       pointsData={volcanoes}
       pointLat="lat"
       pointLng="lon"
       pointAltitude={getAlt}
-      pointRadius={0.25}
+      pointRadius={0.12}
       pointColor={d => catColor(d.type)}
       pointLabel={getTooltip}
 
@@ -137,7 +138,7 @@
       labelDotOrientation={() => 'bottom'}
       labelColor={d => catColor(d.type)}
       labelText="name"
-      labelSize={0.25}
+      labelSize={0.15}
       labelResolution={1}
       labelLabel={getTooltip}
     />;
@@ -145,9 +146,7 @@
 
   ReactDOM.createRoot(document.getElementById('globeViz'))
     .render(<World />);
-	
 </script>
-
     </section>
 
 <!-- --------------------------- TOOLS  ------------------------------------------------------------------- -->
