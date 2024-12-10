@@ -107,7 +107,7 @@
 
     const catColor = d3.scaleOrdinal(d3.schemeCategory10.map(col => polished.transparentize(0.2, col)));
 
-    const getAlt = d => d.elevation * 5e-5;
+    const getAlt = d => d.cfe * 5e-5;
 
     const getTooltip = d => `
       <div style="text-align: center">
