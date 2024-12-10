@@ -115,7 +115,7 @@
       <div style="text-align: center">
         <div><b>${d.name}</b>, ${d.country}</div>
         <div>(${d.type})</div>
-        <div>CFE: <em>${d.cfe}</em>m</div>
+        <div>CFE: <em>${d.cfe}</em> percent</div>
       </div>
     `;
 
@@ -138,7 +138,7 @@
       labelDotOrientation={() => 'bottom'}
       labelColor={d => catColor(d.name)}
       labelText="name"
-      labelSize={0.25}
+      labelSize={0.5}
       labelResolution={1}
       labelLabel={getTooltip}
     />;
