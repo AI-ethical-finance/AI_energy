@@ -214,7 +214,18 @@
 
     <a name="historyanchor"></a>
 	  <section id="history" class="bg-light">
-		  <h2 class="section-heading text-uppercase" style="color: black">Leaderboard</h2>
+
+		   <div class="col-lg-8 text-center">
+           <br><br><br>
+           <h2 class="section-heading text-uppercase" style="color: black">Leaderboard</h2>
+           <br>
+         </div>
+		  import DataTable from 'datatables.net-dt';
+import 'datatables.net-responsive-dt';
+ 
+let table = new DataTable('#myTable', {
+    responsive: true
+});
 		  <table id="myTable" class="display">
 			  <thead>
 				  <tr>
