@@ -1,0 +1,1602 @@
+[
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 34.5,
+   "lon": 131.6,
+   "cfe": 64
+ },
+ {
+   "name": "GCP",
+   "country": "Chile",
+   "type": "Cloud",
+   "lat": -23.3,
+   "lon": -67.62,
+   "cfe": 60
+ },
+ {
+   "name": "GCP",
+   "country": "Guatemala",
+   "type": "Cloud",
+   "lat": 14.5,
+   "lon": -90.88,
+   "cfe": 39
+ },
+ {
+   "name": "GCP",
+   "country": "Turkey",
+   "type": "Cloud",
+   "lat": 38.57,
+   "lon": 34.52,
+   "cfe": 16
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 46.21,
+   "lon": -121.49,
+   "cfe": 37
+ },
+ {
+   "name": "GCP",
+   "country": "Pacific Ocean",
+   "type": "Cloud",
+   "lat": -25.37,
+   "lon": -129.27,
+   "cfe": 39
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 37.64,
+   "lon": 140.29,
+   "cfe": 17
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 10.07,
+   "lon": 40.84,
+   "cfe": 17
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 13.08,
+   "lon": 40.85,
+   "cfe": 12
+ },
+ {
+   "name": "GCP",
+   "country": "Mariana Islands",
+   "type": "Cloud",
+   "lat": 18.77,
+   "lon": 145.67,
+   "cfe": 96
+ },
+ {
+   "name": "GCP",
+   "country": "Guatemala",
+   "type": "Cloud",
+   "lat": 14.47,
+   "lon": -90.74,
+   "cfe": 37
+ },
+ {
+   "name": "GCP",
+   "country": "Azores",
+   "type": "Cloud",
+   "lat": 37.77,
+   "lon": -25.47,
+   "cfe": 94
+ },
+ {
+   "name": "GCP",
+   "country": "Chile",
+   "type": "Cloud",
+   "lat": -50.33,
+   "lon": -73.75,
+   "cfe": 25
+ },
+ {
+   "name": "GCP",
+   "country": "Lesser Sunda Islands",
+   "type": "Cloud",
+   "lat": -8.34,
+   "lon": 115.51,
+   "cfe": 31
+ },
+ {
+   "name": "GCP",
+   "country": "Mariana Islands",
+   "type": "Cloud",
+   "lat": 20.42,
+   "lon": 145.03,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 53.98,
+   "lon": 159.45,
+   "cfe": 11
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 36.56,
+   "lon": 139.2,
+   "cfe": 18
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 43.38,
+   "lon": 144.01,
+   "cfe": 14
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 55.43,
+   "lon": 158.65,
+   "cfe": 19
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 39.76,
+   "lon": 140.8,
+   "cfe": 16
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 39.96,
+   "lon": 140.76,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 29.46,
+   "lon": 129.6,
+   "cfe": 58
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 54.13,
+   "lon": -165.99,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 50.86,
+   "lon": 155.55,
+   "cfe": 23
+ },
+ {
+   "name": "GCP",
+   "country": "Mariana Islands",
+   "type": "Cloud",
+   "lat": 17.6,
+   "lon": 145.83,
+   "cfe": 74
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 12.88,
+   "lon": 40.57,
+   "cfe": 15
+ },
+ {
+   "name": "GCP",
+   "country": "Italy",
+   "type": "Cloud",
+   "lat": 41.73,
+   "lon": 12.7,
+   "cfe": 94
+ },
+ {
+   "name": "GCP",
+   "country": "Galapagos Islands",
+   "type": "Cloud",
+   "lat": -0.43,
+   "lon": -91.12,
+   "cfe": 11
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 13.52,
+   "lon": 40.63,
+   "cfe": 10
+ },
+ {
+   "name": "GCP",
+   "country": "Eritrea",
+   "type": "Cloud",
+   "lat": 14.88,
+   "lon": 39.92,
+   "cfe": 90
+ },
+ {
+   "name": "GCP",
+   "country": "Vanuatu",
+   "type": "Cloud",
+   "lat": -16.25,
+   "lon": 168.12,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Mariana Islands",
+   "type": "Cloud",
+   "lat": 16.35,
+   "lon": 145.67,
+   "cfe": 79
+ },
+ {
+   "name": "GCP",
+   "country": "Vanuatu",
+   "type": "Cloud",
+   "lat": -20.2,
+   "lon": 169.78,
+   "cfe": 85
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 56.88,
+   "lon": -158.17,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -0.48,
+   "lon": -78.14,
+   "cfe": 57
+ },
+ {
+   "name": "GCP",
+   "country": "Vanuatu",
+   "type": "Cloud",
+   "lat": -15.4,
+   "lon": 167.83,
+   "cfe": 14
+ },
+ {
+   "name": "GCP",
+   "country": "Turkey",
+   "type": "Cloud",
+   "lat": 39.7,
+   "lon": 44.3,
+   "cfe": 51
+ },
+ {
+   "name": "GCP",
+   "country": "Costa Rica",
+   "type": "Cloud",
+   "lat": 10.46,
+   "lon": -84.7,
+   "cfe": 16
+ },
+ {
+   "name": "GCP",
+   "country": "Chile",
+   "type": "Cloud",
+   "lat": -18.73,
+   "lon": -69.05,
+   "cfe": 55
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 52.36,
+   "lon": 157.83,
+   "cfe": 19
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 36.4,
+   "lon": 138.53,
+   "cfe": 25
+ },
+ {
+   "name": "GCP",
+   "country": "South Atlantic Ocean",
+   "type": "Cloud",
+   "lat": -7.95,
+   "lon": -14.37,
+   "cfe": 85
+ },
+ {
+   "name": "GCP",
+   "country": "Iceland",
+   "type": "Cloud",
+   "lat": 65.03,
+   "lon": -16.75,
+   "cfe": 15
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 32.88,
+   "lon": 131.11,
+   "cfe": 15
+ },
+ {
+   "name": "GCP",
+   "country": "Guatemala",
+   "type": "Cloud",
+   "lat": 14.58,
+   "lon": -91.19,
+   "cfe": 35
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 52.38,
+   "lon": -174.15,
+   "cfe": 15
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 44.81,
+   "lon": 147.14,
+   "cfe": 12
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 59.36,
+   "lon": -153.43,
+   "cfe": 12
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 53.26,
+   "lon": 158.83,
+   "cfe": 27
+ },
+ {
+   "name": "GCP",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 3.67,
+   "lon": 125.5,
+   "cfe": 13
+ },
+ {
+   "name": "GCP",
+   "country": "Pacific Ocean",
+   "type": "Cloud",
+   "lat": 45.95,
+   "lon": -130,
+   "cfe": 14
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 10.08,
+   "lon": 40.7,
+   "cfe": 21
+ },
+ {
+   "name": "GCP",
+   "country": "Chile",
+   "type": "Cloud",
+   "lat": -21.79,
+   "lon": -68.24,
+   "cfe": 58
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 37.73,
+   "lon": 140.25,
+   "cfe": 20
+ },
+ {
+   "name": "GCP",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 19.5,
+   "lon": 121.9,
+   "cfe": 11
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.8,
+   "lon": -121.6,
+   "cfe": 27
+ },
+ {
+   "name": "GCP",
+   "country": "Papua New Guinea",
+   "type": "Cloud",
+   "lat": -6.1,
+   "lon": 155.2,
+   "cfe": 17
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 48.79,
+   "lon": -121.82,
+   "cfe": 32
+ },
+ {
+   "name": "GCP",
+   "country": "Papua New Guinea",
+   "type": "Cloud",
+   "lat": -3.6,
+   "lon": 144.85,
+   "cfe": 68
+ },
+ {
+   "name": "GCP",
+   "country": "Papua New Guinea",
+   "type": "Cloud",
+   "lat": -5.2,
+   "lon": 151.2,
+   "cfe": 22
+ },
+ {
+   "name": "GCP",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 37.6,
+   "lon": 140.1,
+   "cfe": 18
+ },
+ {
+   "name": "GCP",
+   "country": "India",
+   "type": "Cloud",
+   "lat": 12.29,
+   "lon": 93.88,
+   "cfe": 30
+ },
+ {
+   "name": "GCP",
+   "country": "Kenya",
+   "type": "Cloud",
+   "lat": 2.32,
+   "lon": 36.57,
+   "cfe": 10
+ },
+ {
+   "name": "GCP",
+   "country": "Iran",
+   "type": "Cloud",
+   "lat": 28,
+   "lon": 60,
+   "cfe": 34
+ },
+ {
+   "name": "GCP",
+   "country": "Norway",
+   "type": "Cloud",
+   "lat": 71.1,
+   "lon": -8.2,
+   "cfe": 22
+ },
+ {
+   "name": "GCP",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 44.28,
+   "lon": -121.83,
+   "cfe": 20
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 55.98,
+   "lon": 160.58,
+   "cfe": 28
+ },
+ {
+   "name": "GCP",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 11.5,
+   "lon": 124.5,
+   "cfe": 11
+ },
+ {
+   "name": "GCP",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.32,
+   "lon": 160.02,
+   "cfe": 17
+ },
+ {
+   "name": "GCP",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 12.8,
+   "lon": 124.1,
+   "cfe": 15
+ },
+ {
+   "name": "GCP",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 8.05,
+   "lon": 38.35,
+   "cfe": 22
+ },
+ {
+   "name": "GCP",
+   "country": "Cameroon",
+   "type": "Cloud",
+   "lat": 4.2,
+   "lon": 9.17,
+   "cfe": 40
+ },
+ {
+   "name": "AWS",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 18.83,
+   "lon": 121.85,
+   "cfe": 71
+ },
+ {
+   "name": "AWS",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 10.41,
+   "lon": 123.13,
+   "cfe": 24
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 36.45,
+   "lon": -104.09,
+   "cfe": 24
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 33.7,
+   "lon": -106,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": 0.03,
+   "lon": -77.99,
+   "cfe": 57
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -6.9,
+   "lon": 108.41,
+   "cfe": 30
+ },
+ {
+   "name": "AWS",
+   "country": "France",
+   "type": "Cloud",
+   "lat": 45.78,
+   "lon": 2.97,
+   "cfe": 14
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 57.13,
+   "lon": -156.99,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 50.33,
+   "lon": 155.46,
+   "cfe": 59
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -1.46,
+   "lon": -78.82,
+   "cfe": 63
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 52.83,
+   "lon": -169.95,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Cloud",
+   "type": "Caldera",
+   "lat": 13.86,
+   "lon": -89.54,
+   "cfe": 74
+ },
+ {
+   "name": "AWS",
+   "country": "Mexico",
+   "type": "Cloud",
+   "lat": 19.51,
+   "lon": -103.62,
+   "cfe": 41
+ },
+ {
+   "name": "AWS",
+   "country": "Nicaragua",
+   "type": "Cloud",
+   "lat": 11.5,
+   "lon": -85.6,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "Argentina",
+   "type": "Cloud",
+   "lat": -37.85,
+   "lon": -71.17,
+   "cfe": 29
+ },
+ {
+   "name": "AWS",
+   "country": "Nicaragua",
+   "type": "Cloud",
+   "lat": 12.98,
+   "lon": -87.56,
+   "cfe": 84
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -0.68,
+   "lon": -78.44,
+   "cfe": 59
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 42.94,
+   "lon": -122.11,
+   "cfe": 24
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.42,
+   "lon": -113.5,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 43.7,
+   "lon": 142.9,
+   "cfe": 22
+ },
+ {
+   "name": "AWS",
+   "country": "Papua New Guinea",
+   "type": "Cloud",
+   "lat": -5,
+   "lon": 150.1,
+   "cfe": 40
+ },
+ {
+   "name": "AWS",
+   "country": "Iran",
+   "type": "Cloud",
+   "lat": 35.95,
+   "lon": 52.11,
+   "cfe": 56
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -4,
+   "lon": 103.1,
+   "cfe": 31
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.5,
+   "lon": -120.9,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 44.6,
+   "lon": -104.7,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.1,
+   "lon": -118.7,
+   "cfe": 14
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -7.2,
+   "lon": 109.9,
+   "cfe": 25
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.46,
+   "lon": 156.98,
+   "cfe": 13
+ },
+ {
+   "name": "AWS",
+   "country": "Eritrea",
+   "type": "Cloud",
+   "lat": 13.6,
+   "lon": 41.8,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 1.7,
+   "lon": 127.87,
+   "cfe": 11
+ },
+ {
+   "name": "AWS",
+   "country": "Vanuatu",
+   "type": "Cloud",
+   "lat": -16.7,
+   "lon": 168.4,
+   "cfe": 34
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 50.68,
+   "lon": 156.02,
+   "cfe": 11
+ },
+ {
+   "name": "AWS",
+   "country": "New Zealand",
+   "type": "Cloud",
+   "lat": -39.3,
+   "lon": 174.1,
+   "cfe": 25
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -8.7,
+   "lon": 122.45,
+   "cfe": 78
+ },
+ {
+   "name": "AWS",
+   "country": "Mexico",
+   "type": "Cloud",
+   "lat": 17.36,
+   "lon": -93.23,
+   "cfe": 10
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 43.33,
+   "lon": 42.45,
+   "cfe": 56
+ },
+ {
+   "name": "AWS",
+   "country": "Antarctica",
+   "type": "Cloud",
+   "lat": -77.5,
+   "lon": 167.2,
+   "cfe": 37
+ },
+ {
+   "name": "AWS",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 13.6,
+   "lon": 40.7,
+   "cfe": 61
+ },
+ {
+   "name": "AWS",
+   "country": "Italy",
+   "type": "Cloud",
+   "lat": 37.73,
+   "lon": 15,
+   "cfe": 33
+ },
+ {
+   "name": "AWS",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 8.98,
+   "lon": 39.93,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -0.37,
+   "lon": -91.55,
+   "cfe": 14
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 54.63,
+   "lon": -164.42,
+   "cfe": 10
+ },
+ {
+   "name": "AWS",
+   "country": "Cape Verde Islands",
+   "type": "Cloud",
+   "lat": 14.95,
+   "lon": -24.35,
+   "cfe": 28
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.37,
+   "lon": -121.07,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 55.08,
+   "lon": -162.81,
+   "cfe": 19
+ },
+ {
+   "name": "AWS",
+   "country": "Guatemala",
+   "type": "Cloud",
+   "lat": 14.47,
+   "lon": -90.88,
+   "cfe": 37
+ },
+ {
+   "name": "AWS",
+   "country": "Spain",
+   "type": "Cloud",
+   "lat": 28.36,
+   "lon": -14.02,
+   "cfe": 52
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 35.36,
+   "lon": 138.73,
+   "cfe": 37
+ },
+ {
+   "name": "AWS",
+   "country": "Azores (Portugal)",
+   "type": "Cloud",
+   "lat": 37.76,
+   "lon": -25.33,
+   "cfe": 80
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 50.27,
+   "lon": 155.25,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Colombia",
+   "type": "Cloud",
+   "lat": 1.22,
+   "lon": -77.37,
+   "cfe": 42
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -7.26,
+   "lon": 108.08,
+   "cfe": 21
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 0.81,
+   "lon": 127.33,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.97,
+   "lon": 160.68,
+   "cfe": 25
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 1.38,
+   "lon": 127.53,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 51.8,
+   "lon": 178.8,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "Vanuatu",
+   "type": "Cloud",
+   "lat": -14.27,
+   "lon": 167.5,
+   "cfe": 79
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -6.77,
+   "lon": 106.94,
+   "cfe": 29
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 48.11,
+   "lon": -121.11,
+   "cfe": 32
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 52.56,
+   "lon": 158.03,
+   "cfe": 18
+ },
+ {
+   "name": "AWS",
+   "country": "Azores (Portugal)",
+   "type": "Cloud",
+   "lat": 39.02,
+   "lon": -27.97,
+   "cfe": 40
+ },
+ {
+   "name": "AWS",
+   "country": "Canary Islands (Spain)",
+   "type": "Cloud",
+   "lat": 28,
+   "lon": -15.58,
+   "cfe": 19
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 52.07,
+   "lon": -176.13,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 58.35,
+   "lon": -155.09,
+   "cfe": 23
+ },
+ {
+   "name": "AWS",
+   "country": "Iceland",
+   "type": "Cloud",
+   "lat": 64.42,
+   "lon": -17.33,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -0.17,
+   "lon": -78.6,
+   "cfe": 47
+ },
+ {
+   "name": "AWS",
+   "country": "Chile",
+   "type": "Cloud",
+   "lat": -18.42,
+   "lon": -69.09,
+   "cfe": 60
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 17.31,
+   "lon": 145.84,
+   "cfe": 28
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 35.23,
+   "lon": 139.02,
+   "cfe": 14
+ },
+ {
+   "name": "AWS",
+   "country": "Australia",
+   "type": "Cloud",
+   "lat": -53.1,
+   "lon": 73.5,
+   "cfe": 27
+ },
+ {
+   "name": "AWS",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 9.2,
+   "lon": 124.7,
+   "cfe": 13
+ },
+ {
+   "name": "AWS",
+   "country": "Spain",
+   "type": "Cloud",
+   "lat": 27.73,
+   "lon": -18.03,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 45.4,
+   "lon": -121.7,
+   "cfe": 34
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 19.69,
+   "lon": -155.87,
+   "cfe": 25
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 1.49,
+   "lon": 127.63,
+   "cfe": 13
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -8.06,
+   "lon": 114.24,
+   "cfe": 23
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 60.03,
+   "lon": -153.09,
+   "cfe": 30
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -8.34,
+   "lon": 123.26,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "Ecuador",
+   "type": "Cloud",
+   "lat": -0.66,
+   "lon": -78.71,
+   "cfe": 52
+ },
+ {
+   "name": "AWS",
+   "country": "El Salvador",
+   "type": "Cloud",
+   "lat": 13.67,
+   "lon": -89.05,
+   "cfe": 45
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.49,
+   "lon": 157.2,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 24.75,
+   "lon": 141.29,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "Philippines",
+   "type": "Cloud",
+   "lat": 20.47,
+   "lon": 122.01,
+   "cfe": 10
+ },
+ {
+   "name": "AWS",
+   "country": "Costa Rica",
+   "type": "Cloud",
+   "lat": 9.98,
+   "lon": -83.85,
+   "cfe": 34
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 54.77,
+   "lon": -163.72,
+   "cfe": 24
+ },
+ {
+   "name": "AWS",
+   "country": "El Salvador",
+   "type": "Cloud",
+   "lat": 13.81,
+   "lon": -89.63,
+   "cfe": 19
+ },
+ {
+   "name": "AWS",
+   "country": "Mexico",
+   "type": "Cloud",
+   "lat": 19.18,
+   "lon": -98.64,
+   "cfe": 52
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 34.9,
+   "lon": 139.1,
+   "cfe": 58
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 1.08,
+   "lon": 127.42,
+   "cfe": 11
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 44.67,
+   "lon": -121.8,
+   "cfe": 31
+ },
+ {
+   "name": "AWS",
+   "country": "USA",
+   "type": "Cloud",
+   "lat": 43.1,
+   "lon": -117.4,
+   "cfe": 14
+ },
+ {
+   "name": "AWS",
+   "country": "Papua New Guinea",
+   "type": "Cloud",
+   "lat": -3.63,
+   "lon": 144.63,
+   "cfe": 36
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 58.62,
+   "lon": -154.06,
+   "cfe": 90
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 20.55,
+   "lon": -156.57,
+   "cfe": 45
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.3,
+   "lon": 156.87,
+   "cfe": 21
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 51.92,
+   "lon": -177.17,
+   "cfe": 13
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 2.78,
+   "lon": 125.4,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "CongoRwanda",
+   "type": "Cloud",
+   "lat": -1.51,
+   "lon": 29.45,
+   "cfe": 45
+ },
+ {
+   "name": "AWS",
+   "country": "Comoros",
+   "type": "Cloud",
+   "lat": -11.75,
+   "lon": 43.38,
+   "cfe": 23
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.05,
+   "lon": 159.45,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "Iceland",
+   "type": "Cloud",
+   "lat": 63.63,
+   "lon": -19.05,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 58.28,
+   "lon": -154.96,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "Uganda",
+   "type": "Cloud",
+   "lat": -0.08,
+   "lon": 29.92,
+   "cfe": 10
+ },
+ {
+   "name": "AWS",
+   "country": "Solomon Islands",
+   "type": "Cloud",
+   "lat": -9.02,
+   "lon": 157.95,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.65,
+   "lon": 157.35,
+   "cfe": 90
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -7.93,
+   "lon": 112.31,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": 1.7,
+   "lon": 101.26,
+   "cfe": 38
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 52.06,
+   "lon": 157.7,
+   "cfe": 20
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 57.2,
+   "lon": -156.75,
+   "cfe": 16
+ },
+ {
+   "name": "AWS",
+   "country": "Grenada",
+   "type": "Cloud",
+   "lat": 12.3,
+   "lon": -61.64,
+   "cfe": 18
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 30.79,
+   "lon": 130.31,
+   "cfe": 70
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.49,
+   "lon": 160.25,
+   "cfe": 15
+ },
+ {
+   "name": "AWS",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 19.42,
+   "lon": -155.29,
+   "cfe": 12
+ },
+ {
+   "name": "AWS",
+   "country": "Tanzania",
+   "type": "Cloud",
+   "lat": 3.07,
+   "lon": 37.35,
+   "cfe": 58
+ },
+ {
+   "name": "AWS",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 31.93,
+   "lon": 130.86,
+   "cfe": 17
+ },
+ {
+   "name": "AWS",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 56.06,
+   "lon": 160.64,
+   "cfe": 48
+ },
+ {
+   "name": "IBM",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 42.06,
+   "lon": 140.68,
+   "cfe": 11
+ },
+ {
+   "name": "IBM",
+   "country": "Ethiopia",
+   "type": "Cloud",
+   "lat": 8.8,
+   "lon": 39.69,
+   "cfe": 16
+ },
+ {
+   "name": "IBM",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 53.32,
+   "lon": 158.69,
+   "cfe": 34
+ },
+ {
+   "name": "IBM",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.36,
+   "lon": 156.75,
+   "cfe": 18
+ },
+ {
+   "name": "IBM",
+   "country": "Iceland",
+   "type": "Cloud",
+   "lat": 65.73,
+   "lon": -16.78,
+   "cfe": 81
+ },
+ {
+   "name": "IBM",
+   "country": "Indonesia",
+   "type": "Cloud",
+   "lat": -6.1,
+   "lon": 105.42,
+   "cfe": 81
+ },
+ {
+   "name": "IBM",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.59,
+   "lon": 160.27,
+   "cfe": 18
+ },
+ {
+   "name": "IBM",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 54.75,
+   "lon": 160.53,
+   "cfe": 35
+ },
+ {
+   "name": "IBM",
+   "country": "Russia",
+   "type": "Cloud",
+   "lat": 51.8,
+   "lon": 157.53,
+   "cfe": 10
+ },
+ {
+   "name": "IBM",
+   "country": "United States",
+   "type": "Cloud",
+   "lat": 58.45,
+   "lon": -154.36,
+   "cfe": 20
+ },
+ {
+   "name": "IBM",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 36.64,
+   "lon": 138.54,
+   "cfe": 21
+ },
+ {
+   "name": "IBM",
+   "country": "Japan",
+   "type": "Cloud",
+   "lat": 43.61,
+   "lon": 144.44,
+   "cfe": 99
+ }
+]
