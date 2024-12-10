@@ -20,9 +20,13 @@
 
      <!-- Custom styles for this template -->
     <link href="css/agency.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.css" />
+  
 
     <!-- JQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
+	  
+  <script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
 
   <script src="//unpkg.com/react@18/umd/react.production.min.js"></script>
   <script src="//unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -210,84 +214,33 @@
 
     <a name="historyanchor"></a>
     <section id="history" class="bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">data sources</h2>
-          </div>
-        </div>
-        <div class="slideshow-container">
-          <div class="mySlides">
-            <center><img src="img/history/Anne_K-Ermy_guide.png" style="height:400px"></center>
-            <div style="text-align: center; margin-top:10px">2017 | <a href="http://annkemery.com/portfolio/your-guide-to-great-graphs/">Your guide to great graphs</a> by <i>Ann K. Emery</i> is a two pages poster that outlines 42 great graphs that showcase trends over time, by geography, and more. Note that an <a href="http://annkemery.com/essentials/">interactive version</a> is available.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/history/chartguide.jpg" style="height:400px"></center>
-            <div style="text-align: center; margin-top:10px">2016 | <a href="http://chart.guide/news/">The chart guide</a> by <i>Michiel Dullaert</i>. Initially created to help students choose the right chart.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/history/Visual-vocabulary.png" style="height:400px"></center>
-            <div style="text-align: center; margin-top:10px">2015 | <a href="https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary">The visual vocabulary</a> by the <i>Financial Times Visual Journalism Team</i>. Aims to assist designers and journalists to select the optimal symbology for data visualisations. A interactive version is also <a href="http://ft-interactive.github.io/visual-vocabulary/">available</a>.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/history/the-graphic-continuum.jpg" style="height:400px"></center>
-            <div style="text-align: center; margin-top:15px">2014 | <a href="https://policyviz.com/2014/09/09/graphic-continuum/">The graphic continuum</a> by <i>John Swabish</i> and <i>Severinno Ribecca</i>. Described as a view of the many different types of visualizations available to us when we encode and present data. This poster got a <a href="https://www.informationisbeautifulawards.com/">Information Is Beautiful</a> award.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/history/classification-chart-types.png" style="height:400px"></center>
-            <div style="text-align: center; margin-top:10px">2013 | <a href="http://excelcharts.com/classification-chart-types/">A classification of chart types</a> by <i>Jorge Camoes</i>. This classification includes only charts that can be made using excel.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/history/infography1.png" style="height:400px"></center>
-            <div style="text-align: center; margin-top:15px">2006 | <a href="http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html">The Chart Chooser</a> by <i>Dr. Abela</i>. A simple representation that is part of the <a href="https://extremepresentation.com/">extreme presentation method</a>. This representation has been criticized by <a href="https://www.perceptualedge.com/blog/?p=2080">Stephen Few</a>, and discussed by many people in the comment section.</div>
-          </div>
-          <div class="mySlides">
-            <center><img src="img/poster/poster_screenshot.png" style="height:400px"></center>
-            <div style="text-align: center; margin-top:10px">2018 | <a href="https://www.data-to-viz.com">From data to viz</a> by <i>Yan Holtz</i> and <i>Conor Healy</i> is a new approach aiming to classify chart types according to their input format. </div>
-          </div>
-          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-          <a class="next" onclick="plusSlides(1)">&#10095;</a>
-        </div>
-        <br>
-        <div style="text-align:center">
-          <span class="dot" onclick="currentSlide(1)"></span>
-          <span class="dot" onclick="currentSlide(2)"></span>
-          <span class="dot" onclick="currentSlide(3)"></span>
-          <span class="dot" onclick="currentSlide(4)"></span>
-          <span class="dot" onclick="currentSlide(5)"></span>
-        </div>
-        <br>
-      </div>
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Row 1 Data 1</td>
+            <td>Row 1 Data 2</td>
+        </tr>
+        <tr>
+            <td>Row 2 Data 1</td>
+            <td>Row 2 Data 2</td>
+        </tr>
+    </tbody>
+</table>
 
     </section>
 
     <script>
-    var slideIndex = 1;
-    showSlides(slideIndex);
 
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
-    }
-
-    function currentSlide(n) {
-      showSlides(slideIndex = n);
-    }
-
-    function showSlides(n) {
-      var i;
-      var slides = document.getElementsByClassName("mySlides");
-      var dots = document.getElementsByClassName("dot");
-      if (n > slides.length) {slideIndex = 1}
-      if (n < 1) {slideIndex = slides.length}
-      for (i = 0; i < slides.length; i++) {
-          slides[i].style.display = "none";
-      }
-      for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" active", "");
-      }
-      slides[slideIndex-1].style.display = "block";
-      dots[slideIndex-1].className += " active";
-    }
+	    $(document).ready( function () {
+    $('#myTable').DataTable();
+} );
+   
     </script>
 
 
