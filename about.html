@@ -126,20 +126,20 @@
       pointLat="lat"
       pointLng="lon"
       pointAltitude={getAlt}
-      pointRadius={0.12}
-      pointColor={d => catColor(d.type)}
+      pointRadius={0.25}
+      pointColor={d => catColor(d.name)}
       pointLabel={getTooltip}
 
       labelsData={volcanoes}
       labelLat="lat"
       labelLng="lon"
-      labelAltitude={d => getAlt(d) + 1e-6}
-      labelDotRadius={0.25}
+      labelAltitude={d => getAlt(d) + 1e-3}
+      labelDotRadius={0.12}
       labelDotOrientation={() => 'bottom'}
-      labelColor={d => catColor(d.type)}
+      labelColor={d => catColor(d.name)}
       labelText="name"
       labelSize={0.25}
-      labelResolution={2}
+      labelResolution={1}
       labelLabel={getTooltip}
     />;
   };
